@@ -8,15 +8,19 @@ An ETF and an index mutual fund can hold the same basket of investments, but an 
 
 ## What is inside
 
-- `01-what-each-is.md` how ETFs and index mutual funds are built.
-- `02-how-they-trade.md` intraday trading versus once-a-day pricing.
-- `03-costs-and-minimums.md` expense ratios, spreads, and minimums.
-- `04-tax-efficiency.md` why ETFs are often more tax-friendly.
-- `05-when-each-makes-sense.md` matching the vehicle to the situation.
+- [01-what-each-is.md](01-what-each-is.md) how ETFs and index mutual funds are built.
+- [02-how-they-trade.md](02-how-they-trade.md) intraday trading versus once-a-day pricing.
+- [03-costs-and-minimums.md](03-costs-and-minimums.md) expense ratios, spreads, and minimums.
+- [04-tax-efficiency.md](04-tax-efficiency.md) why ETFs are often more tax-friendly.
+- [05-when-each-makes-sense.md](05-when-each-makes-sense.md) matching the vehicle to the situation.
 
 ## The stance
 
 This reference explains the structural and practical differences between two fund types. It is educational and factual. It is owned by an operator who is not a financial advisor, and nothing here is financial advice or a recommendation to buy or sell any specific fund.
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
